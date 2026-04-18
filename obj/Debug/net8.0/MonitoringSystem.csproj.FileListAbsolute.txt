@@ -1,0 +1,10 @@
+D:\Учеба\0101\Диплом\MonitoringSystem\obj\Debug\net8.0\MonitoringSystem.csproj.AssemblyReference.cache
+D:\Учеба\0101\Диплом\MonitoringSystem\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+D:\Учеба\0101\Диплом\MonitoringSystem\obj\Debug\net8.0\Avalonia\resources
+D:\Учеба\0101\Диплом\MonitoringSystem\obj\Debug\net8.0\MonitoringSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\0101\Диплом\MonitoringSystem\obj\Debug\net8.0\MonitoringSystem.AssemblyInfoInputs.cache
+D:\Учеба\0101\Диплом\MonitoringSystem\obj\Debug\net8.0\MonitoringSystem.AssemblyInfo.cs
+D:\Учеба\0101\Диплом\MonitoringSystem\obj\Debug\net8.0\MonitoringSystem.csproj.CoreCompileInputs.cache
+D:\Учеба\0101\Диплом\MonitoringSystem\obj\Debug\net8.0\MonitoringSystem.dll
+D:\Учеба\0101\Диплом\MonitoringSystem\obj\Debug\net8.0\refint\MonitoringSystem.dll
+D:\Учеба\0101\Диплом\MonitoringSystem\obj\Debug\net8.0\MonitoringSystem.pdb

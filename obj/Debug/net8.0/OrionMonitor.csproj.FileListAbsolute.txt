@@ -1,0 +1,10 @@
+D:\Учеба\0101\Диплом\OrionMonitor\obj\Debug\net8.0\OrionMonitor.csproj.AssemblyReference.cache
+D:\Учеба\0101\Диплом\OrionMonitor\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+D:\Учеба\0101\Диплом\OrionMonitor\obj\Debug\net8.0\Avalonia\resources
+D:\Учеба\0101\Диплом\OrionMonitor\obj\Debug\net8.0\OrionMonitor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\0101\Диплом\OrionMonitor\obj\Debug\net8.0\OrionMonitor.AssemblyInfoInputs.cache
+D:\Учеба\0101\Диплом\OrionMonitor\obj\Debug\net8.0\OrionMonitor.AssemblyInfo.cs
+D:\Учеба\0101\Диплом\OrionMonitor\obj\Debug\net8.0\OrionMonitor.csproj.CoreCompileInputs.cache
+D:\Учеба\0101\Диплом\OrionMonitor\obj\Debug\net8.0\OrionMonitor.dll
+D:\Учеба\0101\Диплом\OrionMonitor\obj\Debug\net8.0\refint\OrionMonitor.dll
+D:\Учеба\0101\Диплом\OrionMonitor\obj\Debug\net8.0\OrionMonitor.pdb
